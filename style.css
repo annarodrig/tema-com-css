@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Silkscreen&family=Sniglet&family=Varela+Round&display=swap');
 
 body {
-    background-image:url(imagens/fundo.png) 100% ;
-    
-
+    background-image:url(imagens/fundo.png) ;
+    background-size: 100%;
+    background-position: center;
 }
 
 main#container {
