@@ -1,11 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Silkscreen&family=Sniglet&family=Varela+Round&display=swap');
 
 body {
-    /*background: rgb(38,7,46);
-    background: linear-gradient(90deg, rgba(38,7,46,1) 0%, rgba(73,11,88,0.7858880778588808) 35%, rgba(158,112,203,1) 100%);*/
     background-image:url(imagens/fundo.png);
-
-
+    border-image-width: 100%;
 
 }
 
