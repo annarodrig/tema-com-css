@@ -1,14 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&family=Sniglet&family=Varela+Round&display=swap');
+
 body {
+    /*background: rgb(38,7,46);
+    background: linear-gradient(90deg, rgba(38,7,46,1) 0%, rgba(73,11,88,0.7858880778588808) 35%, rgba(158,112,203,1) 100%);*/
+    background-image:url(imagens/fundo.png);
+
+
+
 }
 
 main#container {
+    border: 10px solid transparent;
+    border-image: linear-gradient(to right, #af5ac4, #c679da,#8e3aa3 );
+    border-image-slice: 1;
+    box-shadow: 5px 5px 20px 5px #2C0735;;
+    padding: 25px;
+    background-color: #794ca391;
+    color: #f1f1f1;
+    
 }
 
 h1.titulo {
+    font-family: Silkscreen;
+
 }
 
 p.frase {
+    font-family: Varela Round;
+    font-weight: bolder;
+    font-size:large;
+
 }
 
 p.autor {
+    font-family: Varela Round;
+    font-weight: bolder;
+
 }
