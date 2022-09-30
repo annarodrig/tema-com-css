@@ -3,7 +3,7 @@
 body {
     background-image:url(imagens/fundo.png);
     width: 100%;
-    
+    background-repeat: no-repeat;
 }
 
 main#container {
