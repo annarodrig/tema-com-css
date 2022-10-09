@@ -18,19 +18,19 @@ main#container {
 }
 
 h1.titulo {
-    font-family: Silkscreen;
+    font-family: 'Silkscreen';
 
 }
 
 p.frase {
-    font-family: Varela Round;
+    font-family: 'Varela Round';
     font-weight: bolder;
     font-size:large;
 
 }
 
 p.autor {
-    font-family: Varela Round;
+    font-family: 'Varela Round';
     font-weight: bolder;
 
 }
